@@ -57,8 +57,8 @@
 
 ## 🔗 Connect With Me  
 
-💼 **LinkedIn:** [https://www.researchgate.net/profile/Oluwamayowa-Ogun](#)  
-📂 **ResearchGate:** [https://www.linkedin.com/in/oluwamayowaogun/](#)  
+💼 **ResearchGate:** [https://www.researchgate.net/profile/Oluwamayowa-Ogun](#)  
+📂 **LinkedIn:** [https://www.linkedin.com/in/oluwamayowaogun/](#)  
 
 ---
 
