@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Oluwamayowa Ogun 
 
-## 🧬 Computational Biologist | Data Scientist | AI & Bioinformatics Enthusiast  
+## 🧬 Computational Biologist | Data Analyst/Scientist | AI & Bioinformatics Enthusiast  
 
 🚀 Passionate about **biomarker discovery, computational biology, and machine learning** applied to **genomics, transcriptomics, and proteomics**.  
 💡 Skilled in **Python, R, SQL, and AI-driven data analysis** for biomedical research and **precision medicine applications**.  
