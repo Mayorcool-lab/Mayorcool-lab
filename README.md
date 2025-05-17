@@ -1,67 +1,54 @@
-# 👋 Hi, I'm Dr. Oluwamayowa Ogun 
-
-## 🧬 Computational Biologist | Data Analyst/Scientist | AI & Bioinformatics Enthusiast  
-
-🚀 Passionate about **biomarker discovery, computational biology, and machine learning** applied to **genomics, transcriptomics, and proteomics**.  
-💡 Skilled in **Python, R, SQL, and AI-driven data analysis** for biomedical research and **precision medicine applications**.  
-🎯 Strong background in **statistical modeling, multi-omics data analysis, and AI-driven drug discovery**.  
+# 👋 Dr. Oluwamayowa Ogun  
+**Data Analyst | Business Intelligence Developer | Data Scientist**  
+📍 Kiel, Germany | [LinkedIn](https://linkedin.com/in/oluwamayowaogun)
 
 ---
 
-## 🏆 About Me  
+## 🔍 Focus Areas
 
-🔬 **Ph.D. Specialization in Computational Glycobiology**  
-📊 **5+ years of experience** in bioinformatics, machine learning, and multi-omics analysis  
-📍 Based in **Germany** | Open to collaboration and Jobs in **computational biology, AI in healthcare, and biomarker research**  
-
----
-
-## 🔬 Expertise  
-
-✅ **Biomarker Discovery & Validation**  
-✅ **Statistical Analysis & Predictive Modeling** (Regression, Survival Analysis, Bayesian Modeling)  
-✅ **Machine Learning & Deep Learning** (Scikit-learn, TensorFlow, PyTorch)  
-✅ **Bioinformatics & Structural Biology** (NGS, Single-cell, Proteomics, AlphaFold, AutoDock)  
-✅ **Programming & Data Science** (Python, R, SQL, Cloud Computing)  
+- **Business Intelligence**: Power BI, data storytelling, KPI dashboards  
+- **Data Analytics**: SQL querying, exploratory data analysis, reporting  
+- **Machine Learning**: Model building, evaluation, prediction pipelines  
+- **Domain Expertise**: Healthcare, Life Sciences, Education, Biotechnology, Pharma  
+*Also open to roles in finance, social impact, and other data-driven industries.*
 
 ---
 
-## 🚀 Projects  
+## 🏆 Featured Projects
 
-🔹 **Biomarker Analysis for Cancer & Infectious Diseases**  
-🔹 **Multi-Omics Integration for Disease Prediction**  
-🔹 **AI-Driven Drug Discovery & Virtual Screening**  
-🔹 **Deep Learning for Protein Structure Prediction**  
-🔹 **Computational Modeling of Enzyme Interactions**  
-
-📌 *Check out my repositories for bioinformatics scripts, machine learning models, and AI-driven research tools!*  
-
----
-
-## 🏅 Achievements  
-
-🏆 **OpenAI AI Expert Trainer** (GPT-4 Model Benchmarking & Refinement)  
-🏆 **Stanford University Certifications in AI & Precision Medicine**  
-🏆 **DAAD Funded Research in Computational Biology**  
-🏆 **Published in Peer-Reviewed Journals (Biomarker & Structural Biology)**  
+| Project | Tools | Summary |
+|--------|-------|---------|
+| [🔗 Loan Default Risk Analysis](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-PowerBI) | Power BI, DAX, SQL | 3-in-1 interactive dashboard analyzing 260K+ loan applicants |
+| [🔗 Healthcare Analytics (SQL)](https://github.com/Mayorcool-lab/healthcare-analytics-sql) | SQL Server, T-SQL | Built KPIs and star schema for patient-level data |
+| [🔗 Layoffs Analysis](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis) | MySQL, CTEs | Analyzed global layoffs by industry, location, and company |
+| [🔗 Data Professional Survey Dashboard](https://github.com/Mayorcool-lab/Data-Professional-Survey-PowerBI) | Power BI, DAX | Survey insights on salaries, career paths, and satisfaction |
 
 ---
 
-## 📚 Latest Publications  
+## 🤖 Machine Learning & Data Science Projects
 
-📖 [Molecular structural analysis of porcine CMAH-native ligand complex](https://doi.org/10.3390/pathogens12050684)  
-📖 [An overview of the importance and value of porcine species in Sialic acid research](https://doi.org/10.3390/biology11060903)  
-📖 [In silico functional analysis of non-synonymous SNPs of bovine CMAH gene](https://doi.org/10.3390/pathogens12040591)  
-
----
-
-## 🔗 Connect With Me  
-
-💼 **ResearchGate:** [https://www.researchgate.net/profile/Oluwamayowa-Ogun](#)  
-📂 **LinkedIn:** [https://www.linkedin.com/in/oluwamayowaogun/](#)  
+| Project | Techniques | Description |
+|--------|------------|-------------|
+| [🔗 Diabetes Prediction (SVM)](https://github.com/Mayorcool-lab/Diabetes-Prediction-SVM) | SVM, Random Forest, KNN | Model comparison, feature scaling, classification, evaluation |
+| [🔗 ML Model: Acetylcholinesterase](https://github.com/Mayorcool-lab/Project-Two-on-Chemoinformatics/blob/main/Model_Building_for_Acetylcholinesterase.ipynb) | Bioactivity modeling | ML model using ChEMBL data for enzyme inhibition prediction |
+| [🔗 EDA of CDK2 Protein](https://github.com/Mayorcool-lab/Project-One-on-Chemoinformatics) | Exploratory Data Analysis | Pre-modeling feature analysis on drug-target data |
+| [🔗 COVID Mpro Bioactivity Modeling](https://github.com/Mayorcool-lab/Covid-Mpro-ChEMBL) | pIC50 analysis | SARS-CoV-2 Mpro inhibitor analysis using cheminformatics tools |
 
 ---
 
-### 🚀 *Let's innovate at the intersection of AI and Biology!* 🌱  
+## 🛠️ Technical Toolkit
 
+**BI & Reporting**: Power BI  
+**Databases**: SQL Server, MySQL, PostgreSQL  
+**Programming**: Python (Pandas, Scikit-learn), R  
+**ML & Modeling**: Regression, SVM, Random Forest, Clustering  
+**Cloud Tools**: AWS (S3, EC2) 
+**Other**: Git, Jupyter, Excel, VS Code  
 
+---
+
+## 📫 Let’s Connect
+
+I’m open to **Data Analyst**, **BI Developer**, or **Applied Data Science** roles where I can apply my skills in data transformation, visualization, and insight generation to drive impact.
+
+Let’s turn data into action — across healthcare, life sciences, and beyond. 🚀
