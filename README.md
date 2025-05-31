@@ -18,6 +18,7 @@
 
 | Project | Tools | Summary |
 |--------|-------|---------|
+| [🔗 E-Commerce Funnel Conversion Analysis](https://github.com/Mayorcool-lab/Ecommerce-Conversion-Analysis) | Python, SQL, Power BI | End-to-end funnel analysis with KPIs, revenue insights, segment performance, and dashboard storytelling |
 | [🔗 Loan Default Risk Analysis](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-PowerBI) | Power BI, DAX, SQL | 3-in-1 interactive dashboard analyzing 260K+ loan applicants |
 | [🔗 Healthcare Analytics (SQL)](https://github.com/Mayorcool-lab/healthcare-analytics-sql) | SQL Server, T-SQL | Built KPIs and star schema for patient-level data |
 | [🔗 Layoffs Analysis](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis) | MySQL, CTEs | Analyzed global layoffs by industry, location, and company |
@@ -42,7 +43,7 @@
 **Databases**: SQL Server, MySQL, PostgreSQL  
 **Programming**: Python (Pandas, Scikit-learn), R  
 **ML & Modeling**: Regression, SVM, Random Forest, Clustering  
-**Cloud Tools**: AWS (S3, EC2) 
+**Cloud Tools**: AWS (S3, EC2)  
 **Other**: Git, Jupyter, Excel, VS Code  
 
 ---
