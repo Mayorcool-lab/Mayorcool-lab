@@ -5,7 +5,7 @@
 
 ---
 
-🎓 **PhD in Computational Biology** | Turning data into impactful stories  
+🎓 **PhD specialization in Computational Biology** | Turning data into impactful stories  
 🧠 Bridging science, analytics, and business insight for informed decision-making
 
 ---
