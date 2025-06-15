@@ -35,12 +35,13 @@
 
 ## 🤖 Machine Learning & Data Science Projects
 
-| Project                                                                                                                                                       | Techniques                | Description                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------------------------------------------------|
-| [🔗 Diabetes Prediction (SVM)](https://github.com/Mayorcool-lab/Diabetes-Prediction-SVM)                                                                      | SVM, Random Forest, KNN   | Model comparison, feature scaling, classification, evaluation  |
-| [🔗 ML Model: Acetylcholinesterase](https://github.com/Mayorcool-lab/Project-Two-on-Chemoinformatics/blob/main/Model_Building_for_Acetylcholinesterase.ipynb) | Bioactivity modeling      | ML model using ChEMBL data for enzyme inhibition prediction    |
-| [🔗 EDA of CDK2 Protein](https://github.com/Mayorcool-lab/Project-One-on-Chemoinformatics)                                                                    | Exploratory Data Analysis | Pre-modeling feature analysis on drug-target data              |
-| [🔗 COVID Mpro Bioactivity Modeling](https://github.com/Mayorcool-lab/Covid-Mpro-ChEMBL)                                                                      | pIC50 analysis            | SARS-CoV-2 Mpro inhibitor analysis using cheminformatics tools |
+| Project                                                                                                                                                       | Techniques                | Description                                                                                          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| [🔗 Diabetes Prediction (SVM)](https://github.com/Mayorcool-lab/Diabetes-Prediction-SVM)                                                                      | SVM, Random Forest, KNN   | Model comparison, feature scaling, classification, evaluation                                       |
+| [🔗 ML Model: Acetylcholinesterase](https://github.com/Mayorcool-lab/Project-Two-on-Chemoinformatics/blob/main/Model_Building_for_Acetylcholinesterase.ipynb) | Bioactivity modeling      | ML model using ChEMBL data for enzyme inhibition prediction                                         |
+| [🔗 EDA of CDK2 Protein](https://github.com/Mayorcool-lab/Project-One-on-Chemoinformatics)                                                                    | Exploratory Data Analysis | Pre-modeling feature analysis on drug-target data                                                   |
+| [🔗 COVID Mpro Bioactivity Modeling](https://github.com/Mayorcool-lab/Covid-Mpro-ChEMBL)                                                                      | pIC50 analysis            | SARS-CoV-2 Mpro inhibitor analysis using cheminformatics tools                                      |
+| [🔗 ChEMBL EGFR Bioactivity Data Acquisition](https://github.com/Mayorcool-lab/EGFR-Bioactivity-Cheminformatics)                                              | Cheminformatics, pIC50    | IC50 curation, compound SMILES processing, pIC50 calculation, and top inhibitor visualization       |
 
 ---
 
@@ -72,5 +73,5 @@ Let’s collaborate to bring clarity from complexity — across industries and b
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mayorcool-lab&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mayorcool-lab&style=flat-square)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayorcool-lab&show_icons=true&theme=default)
