@@ -43,7 +43,7 @@ From building **scRNA-seq pipelines** and **bioactivity models** to designing **
 | [🔗 Loan Default Risk Dashboard](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-Powerbi)      | Power BI, DAX, SQL    | 3-in-1 Power BI dashboard using financial and demographic loan data                                     |
 | [🔗 Healthcare Analytics (SQL)](https://github.com/Mayorcool-lab/healthcare-analytics-sql)                 | SQL Server, T-SQL     | Modeled patient, clinical, and finance data with star schema and reports                                |
 | [🔗 Layoffs SQL Analysis](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis)                           | MySQL, SQL            | Global layoffs trends analyzed using advanced SQL (CTEs, window funcs)                                  |
-| [🔗 Data Professional Survey Dashboard](https://github.com/Mayorcool-lab/Data-Professional-Survey-PowerBI) | Power BI              | Dashboard built from 700+ survey responses (salary, career, satisfaction)                               |
+| [🔗 Data Professional Survey Dashboard](https://github.com/Mayorcool-lab/Data-Professional-Survey-PowerBI) | Power BI              | Dashboard built from 600+ survey responses (salary, career, satisfaction)                               |
 
 ---
 
