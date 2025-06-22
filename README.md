@@ -69,7 +69,7 @@ From building **scRNA-seq pipelines** and **bioactivity models** to designing **
 
 ## 🤝 Let’s Collaborate
 
-I’m excited to bring data to life — whether through **scientific modeling**, **business reporting**, or **analytics consulting**. Open to data roles across **biotech, healthcare, education, research, and mission-driven sectors**.
+I’m excited to bring data to life — whether through **scientific modeling**, **business reporting**, or **analytics consulting**. Open to data roles across **biotech, healthcare, business, education, research, and mission-driven sectors**.
 
 📬 Feel free to connect on [LinkedIn](https://linkedin.com/in/oluwamayowaogun) or reach out about any collaboration!
 
