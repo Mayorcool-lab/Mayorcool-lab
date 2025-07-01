@@ -1,77 +1,91 @@
 # 👋 Dr. Oluwamayowa Ogun  
-**Data Analyst • BI Developer • Computational Biologist**  
-📍 Kiel, Germany • 💼 Open to roles in Data Analytics, Bioinformatics, and Applied Data Science  
-🔗 [LinkedIn](https://linkedin.com/in/oluwamayowaogun)
+**Computational Biologist • Cheminformatics Engineer • Data & Analytics Scientist**  
+📍 Kiel, Germany • 💼 Open to roles in **bioinformatics, cheminformatics, AI/ML, and applied data science**  
+🔗 [LinkedIn](https://linkedin.com/in/oluwamayowaogun) | ✉️ oluwamayowaogun@gmail.com
 
 ---
 
 ## 🧠 About Me
 
-I'm a PhD-trained Computational Biologist and Data Analyst who thrives at the intersection of **science, analytics, and business intelligence**.
+I’m a PhD-trained scientist working at the intersection of **biology, chemistry, machine learning, and data analytics**.
 
-From building **scRNA-seq pipelines** and **bioactivity models** to designing **executive dashboards** and **SQL reporting systems**, I specialize in translating data into insights across domains like healthcare, life sciences, and research tech.
+I specialize in:
+- 🧬 Analyzing **scRNA-seq**, genomics, and omics data for biological insights  
+- 💊 Building **cheminformatics pipelines** for virtual screening and pIC₅₀ prediction  
+- 🤖 Designing ML-ready workflows and evaluating AI (LLMs like GPT-4) in biomedical contexts  
+- 📊 Creating **dashboards and SQL-based reports** for clinical and operational data  
 
----
-
-## 🧭 Domain Expertise Snapshot
-
-| Domain                     | Tools / Skills                                      | Example Projects                                                                 |
-|---------------------------|-----------------------------------------------------|----------------------------------------------------------------------------------|
-| **Computational Biology** | Seurat, ChEMBL, Monocle, scRNA-seq, Bioactivity ML  | [scRNA Breast Cancer](https://github.com/Mayorcool-lab/scRNA-Breast-Cancer-Analysis), [COVID Bioactivity](https://github.com/Mayorcool-lab/Covid-Mpro-ChEMBL) |
-| **Data Analytics & BI**   | Power BI, SQL Server, MySQL, DAX, Python            | [E-commerce Funnel](https://github.com/Mayorcool-lab/Ecommerce-Conversion-Analysis), [Loan Risk Dashboard](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-Powerbi) |
+Whether working with RDKit or Seurat, Scikit-learn or Power BI, I deliver actionable science from complex data.
 
 ---
 
-## 🧬 Bioinformatics & Computational Biology Projects
+## 🚀 Featured Project Portfolio
 
-| Project                                                                                     | Tools                    | Description                                                                 |
-|---------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------------------------------|
-| [🔗 Breast Cancer scRNA-seq](https://github.com/Mayorcool-lab/scRNA-Breast-Cancer-Analysis) | Seurat, Harmony, Monocle | Identified MDSCs and enriched immune pathways in tumor microenvironment    |
-| [🔗 COVID Lung scRNA-seq](https://github.com/Mayorcool-lab/Covid-scRNA-Analysis)            | Seurat, DESeq2           | End-to-end single-cell analysis comparing COVID-19 and healthy lung tissue |
-| [🔗 COVID Mpro Bioactivity](https://github.com/Mayorcool-lab/Covid-Mpro-ChEMBL)             | ChEMBL, pIC50            | SARS-CoV-2 MPro inhibitor modeling with cheminformatics and IC50 values     |
-| [🔗 EGFR Kinase Bioactivity](https://github.com/Mayorcool-lab/ChEMBL-EGFR-Bioactivity-Data) | SMILES, pIC50            | Kinase inhibition data processing with ChEMBL and pIC50 calculation         |
-| [🔗 Acetylcholinesterase ML](https://github.com/Mayorcool-lab/Acetylcholinesterase-Bioactivity-Analysis) | ChEMBL, ML, stats        | Curated IC50 data, converted to pIC50, and prepped for classification       |
-| [🔗 CDK2 Bioactivity](https://github.com/Mayorcool-lab/CDK2-Bioactivity-Cheminformatics)    | Drug-target ML, SMILES   | IC50, Ki, Kd curation + binary classification for CDK2 inhibitors           |
+### 🔬 Drug Discovery & Cheminformatics Projects
+
+| Project                                                                                         | Tools                     | Summary                                                                 |
+|--------------------------------------------------------------------------------------------------|---------------------------|-------------------------------------------------------------------------|
+| [Acetylcholinesterase Bioactivity](https://github.com/Mayorcool-lab/Acetylcholinesterase-Bioactivity-Analysis) | RDKit, PaDEL, Snakemake    | Full pipeline for pIC₅₀ prediction and compound triage                  |
+| [EGFR Kinase Bioactivity](https://github.com/Mayorcool-lab/ChEMBL-EGFR-Bioactivity-Data)        | ChEMBL, RDKit              | Kinase inhibition modeling with descriptor engineering                  |
+| [COVID MPro Screening](https://github.com/Mayorcool-lab/Covid-Mpro-ChEMBL)                      | ChEMBL, Python             | Molecular filtering & standardization for COVID inhibitor candidates    |
+| [CDK2 Bioactivity Modeling](https://github.com/Mayorcool-lab/CDK2-Bioactivity-Cheminformatics)  | SMILES, ML, Fingerprints   | Classification of CDK2 inhibitors using curated bioactivity data        |
 
 ---
 
-## 📊 Business Intelligence & Data Analytics Projects
+### 🧬 Bioinformatics & Omics Analysis Projects
+
+| Project                                                                                   | Tools                    | Description                                                                 |
+|-------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------------------------------|
+| [Breast Cancer scRNA-seq](https://github.com/Mayorcool-lab/scRNA-Breast-Cancer-Analysis) | Seurat, Harmony, Monocle | TME cell-type deconvolution and DEG pathway enrichment                      |
+| [COVID-19 Lung scRNA-seq](https://github.com/Mayorcool-lab/Covid-scRNA-Analysis)         | Seurat, DESeq2, SingleR  | Immune profiling of infected vs. healthy tissue                             |
+| [SNP & Multi-Omics Modeling](https://github.com/Mayorcool-lab/SNP-Glycobiology-Study)    | Bioconductor, AutoDock   | SNP annotation, 3D protein modeling, and docking simulation                 |
+
+---
+
+### 📊 Clinical & Business Analytics Projects
 
 | Project                                                                                                    | Tools                 | Summary                                                                                                 |
 |------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------|
-| [🔗 E-Commerce Funnel Analysis](https://github.com/Mayorcool-lab/Ecommerce-Conversion-Analysis)            | Python, SQL, Power BI | Funnel KPIs, segment breakdowns, and actionable UX dashboard                                            |
-| [🔗 Loan Default Risk Dashboard](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-Powerbi)      | Power BI, DAX, SQL    | 3-in-1 Power BI dashboard using financial and demographic loan data                                     |
-| [🔗 Healthcare Analytics (SQL)](https://github.com/Mayorcool-lab/healthcare-analytics-sql)                 | SQL Server, T-SQL     | Modeled patient, clinical, and finance data with star schema and reports                                |
-| [🔗 Layoffs SQL Analysis](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis)                           | MySQL, SQL            | Global layoffs trends analyzed using advanced SQL (CTEs, window funcs)                                  |
-| [🔗 Data Professional Survey Dashboard](https://github.com/Mayorcool-lab/Data-Professional-Survey-PowerBI) | Power BI              | Dashboard built from 600+ survey responses (salary, career, satisfaction)                               |
+| [Loan Default Risk Dashboard](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-Powerbi)        | Power BI, SQL         | 3-in-1 dashboard to monitor and assess loan risk factors                                                |
+| [E-Commerce Funnel Analysis](https://github.com/Mayorcool-lab/Ecommerce-Conversion-Analysis)              | Python, SQL, Power BI | Conversion funnel KPIs and segmentation dashboard                                                       |
+| [Healthcare SQL Analytics](https://github.com/Mayorcool-lab/healthcare-analytics-sql)                     | SQL Server, T-SQL     | Clinical and operational metrics modeled via SQL star schema                                            |
+| [Layoffs SQL Analysis](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis)                             | MySQL, SQL            | Global workforce analytics using advanced queries and visual summaries                                  |
+| [Data Professional Survey Dashboard](https://github.com/Mayorcool-lab/Data-Professional-Survey-PowerBI)   | Power BI              | Career analytics dashboard from survey data (salary, satisfaction, skills)                             |
 
 ---
 
-## 🤖 Machine Learning & Classification Project
+### 🤖 Machine Learning & Predictive Modeling Projects
 
 | Project                                                                                  | Tools                  | Description                                                                 |
 |------------------------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------------------|
-| [🔗 Diabetes Prediction (SVM)](https://github.com/Mayorcool-lab/Diabetes-Prediction-SVM) | SVM, Random Forest, KNN | Classification models on Pima dataset, including scaling & evaluation       |
+| [Diabetes Prediction (ML)](https://github.com/Mayorcool-lab/Diabetes-Prediction-SVM)     | SVM, Random Forest     | Classification of patient risk using Pima dataset and model evaluation     |
+| [ML for Drug Bioactivity](https://github.com/Mayorcool-lab/Acetylcholinesterase-Bioactivity-Analysis) | Scikit-learn, RDKit    | Predictive modeling of small molecules using fingerprints + ML              |
 
 ---
 
 ## ⚙️ Technical Toolkit
 
-- **Data Visualization**: Power BI, DAX  
-- **Databases**: SQL Server, MySQL, PostgreSQL  
-- **Programming**: Python (Pandas, Scikit-learn), R  
-- **ML/DS**: Classification, Clustering, Random Forest, SVM  
-- **Bio/Omics Tools**: Seurat, Monocle, ChEMBL, SingleR  
-- **Cloud**: AWS (S3, EC2)  
-- **Other Tools**: Git, Jupyter, Excel, VS Code
+**Languages**: Python, R, SQL, Bash  
+**Cheminformatics**: RDKit, PaDEL, SMILES, ChEMBL, Lipinski Rules  
+**Bioinformatics**: Seurat, Monocle, DESeq2, Scanpy, Bioconductor  
+**ML & Modeling**: Scikit-learn, XGBoost, SVM, SHAP, GridSearchCV  
+**Visualization**: Power BI, DAX, Plotly, Seaborn, ggplot2  
+**Databases**: SQL Server, PostgreSQL, MySQL  
+**Workflow Tools**: Snakemake, Conda, Git, Docker (basic)  
+**Cloud**: AWS (S3, Athena, EC2)  
+**Docs & Reporting**: RMarkdown, Jupyter, VS Code
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-I’m excited to bring data to life — whether through **scientific modeling**, **business reporting**, or **analytics consulting**. Open to data roles across **biotech, healthcare, business, education, research, and mission-driven sectors**.
+I’m excited to work on meaningful problems in:
+- Bioinformatics & genomics
+- Drug discovery and cheminformatics
+- Biomedical AI and LLM prompting
+- Data analytics & dashboard development
 
-📬 Feel free to connect on [LinkedIn](https://linkedin.com/in/oluwamayowaogun) or reach out about any collaboration!
+📬 Reach out via [LinkedIn](https://linkedin.com/in/oluwamayowaogun) or email: **oluwamayowaogun@gmail.com**
 
 ---
 
