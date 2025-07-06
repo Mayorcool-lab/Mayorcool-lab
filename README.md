@@ -38,7 +38,7 @@ Whether working with RDKit or Seurat, Scikit-learn or Power BI, I deliver action
 |-------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------------------------------|
 | [Breast Cancer scRNA-seq](https://github.com/Mayorcool-lab/scRNA-Breast-Cancer-Analysis) | Seurat, Harmony, Monocle | TME cell-type deconvolution and DEG pathway enrichment                      |
 | [COVID-19 Lung scRNA-seq](https://github.com/Mayorcool-lab/Covid-scRNA-Analysis)         | Seurat, DESeq2, SingleR  | Immune profiling of infected vs. healthy tissue                             |
-| [SNP & Multi-Omics Modeling](https://github.com/Mayorcool-lab/SNP-Glycobiology-Study)    | Bioconductor, AutoDock   | SNP annotation, 3D protein modeling, and docking simulation                 |
+| [SNP & Multi-Omics Modeling](https://www.mdpi.com/2076-0817/12/4/591)    | Bioconductor, AutoDock   | SNP annotation, 3D protein modeling, and docking simulation                 |
 
 ---
 
