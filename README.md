@@ -1,26 +1,31 @@
 # 👋 Dr. Oluwamayowa Ogun
 
-🎓 **PhD Specialisation in Computational Biology** | 🧪 *AI-Driven Omics Analyst* | 🤖 *Biomedical Data Scientist*
+🎓 **PhD in Computational Biology** | 🧬 *AI for Immunogenomics & Drug Discovery* | 🤖 *Single-Cell, Multi-Omics & ML Pipelines*
 
-📍 Kiel, Germany • 💼 Open to roles in **Bioinformatics, Cheminformatics, ML, and Health AI**  
+📍 Kiel, Germany • 💼 Open to roles in **Bioinformatics • Translational Genomics • Biomedical AI**  
 🔗 [LinkedIn](https://www.linkedin.com/in/oluwamayowaogun) | ✉️ oluwamayowaogun@gmail.com
+
+---
+
+🧪 I build AI-ready pipelines that integrate transcriptomics — including single-cell, de novo RNA-seq, and SNP-aware genomics — along with structural and multi-omics data to decode immune biology and therapeutic response.  
+My expertise spans scRNA-seq, ML modeling, and drug-target analysis, with a focus on cancer, infection, and immune dysfunction.  
+I’m actively exploring spatial omics to complement immune profiling and spatially-aware biomarker discovery.
 
 ---
 
 ## 🧠 About Me
 
-I build reproducible, AI-ready pipelines that turn omics, chemical, and clinical data into meaningful scientific insights.
-
-- 🧬 Immune profiling via single-cell and spatial transcriptomics (Scanpy, Seurat, Harmony)
-- 💊 ML-driven cheminformatics workflows (RDKit, Snakemake, GROMACS)
-- 📊 SQL + Power BI dashboards for healthcare and clinical operations
-- 🤖 Biomedical LLM evaluation & prompt engineering (OpenAI, GPT-4)
+- 🧬 Immune profiling via single-cell and de novo RNA-seq (Scanpy, Seurat, Harmony, Bioconductor)
+- 💊 ML-driven cheminformatics pipelines for drug discovery (RDKit, GROMACS, Snakemake)
+- ⚙️ End-to-end reproducible workflows using Conda, Snakemake, AWS, and RMarkdown
+- 🧠 Biomedical LLM evaluation & prompt engineering (OpenAI, GPT-4)
+- 🧬 SNP & multi-omics integration in immune-related metabolic and cancer pathways
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 **Drug Discovery & Cheminformatics**
+### 🔬 Drug Discovery & Cheminformatics
 
 | Project                                                                                          | Tools                    | Summary                                                       | 📈 Impact                        |
 |--------------------------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------------|----------------------------------|
@@ -31,7 +36,7 @@ I build reproducible, AI-ready pipelines that turn omics, chemical, and clinical
 
 ---
 
-### 🧬 **Bioinformatics & Omics Analysis**
+### 🧬 Bioinformatics & Omics Analysis
 
 | Project                                                                                           | Tools                        | Description                                                               | 📈 Impact                               |
 |---------------------------------------------------------------------------------------------------|------------------------------|---------------------------------------------------------------------------|-----------------------------------------|
@@ -41,7 +46,7 @@ I build reproducible, AI-ready pipelines that turn omics, chemical, and clinical
 
 ---
 
-### 🤖 **Machine Learning & Predictive Modeling**
+### 🤖 Machine Learning & Predictive Modeling
 
 | Project                                                                                   | Tools                   | Description                                                 | 📈 Performance                     |
 |-------------------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------------|-----------------------------------|
@@ -50,11 +55,11 @@ I build reproducible, AI-ready pipelines that turn omics, chemical, and clinical
 
 ---
 
-### 📊 **Clinical & Business Analytics**
+## 📊 Other Projects
 
 | Project                                                                                                     | Tools                  | Summary                                                     | 📈 Outcome                        |
 |-------------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------|----------------------------------|
-| [Healthcare SQL Analytics](https://github.com/Mayorcool-lab/healthcare-analytics-sql)                      | SQL Server, T-SQL      | Clinical metrics (billing, CPT codes, net collections)      | Improved KPIs & utilization       |
+| [Healthcare SQL Analytics](https://github.com/Mayorcool-lab/healthcare-analytics-sql)                      | SQL Server, T‑SQL      | Clinical metrics (billing, CPT codes, net collections)      | Improved KPIs & utilization       |
 | [Loan Default Risk Dashboard](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-Powerbi)         | SQL, Power BI          | Dashboard to assess credit risk patterns                    | Data-driven loan decisions        |
 | [E-commerce Funnel Analysis](https://github.com/Mayorcool-lab/Ecommerce-Conversion-Analysis)               | Python, Power BI       | Customer conversion + segmentation analytics                | Funnel optimization strategies    |
 | [Layoffs SQL Analysis](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis)                              | MySQL, SQL             | Workforce trend analytics via SQL + visuals                 | Workforce impact analysis         |
@@ -90,7 +95,7 @@ I'm open to opportunities in:
 - 🔬 Bioinformatics & Genomics  
 - 💊 Drug Discovery & Cheminformatics  
 - 🧠 Biomedical ML & AI  
-- 📈 Clinical Data Science & Analytics
+- 🧬 Single-Cell & Spatial Omics  
 
 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/oluwamayowaogun) or via email: **oluwamayowaogun@gmail.com**
 
