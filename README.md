@@ -15,7 +15,7 @@ I’m actively exploring spatial omics to complement immune profiling and spatia
 
 ## 🧠 About Me
 
-- 🧬 Immune profiling via single-cell and de novo RNA-seq (Scanpy, Seurat, Harmony, Bioconductor)
+- 🧬 Immune profiling via single-cell and de novo RNA-seq (Scanpy, Seurat, Harmony,Trinity, Bioconductor)
 - 💊 ML-driven cheminformatics pipelines for drug discovery (RDKit, GROMACS, Snakemake)
 - ⚙️ End-to-end reproducible workflows using Conda, Snakemake, AWS, and RMarkdown
 - 🧠 Biomedical LLM evaluation & prompt engineering (OpenAI, GPT-4)
