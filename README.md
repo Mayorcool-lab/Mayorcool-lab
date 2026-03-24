@@ -10,7 +10,7 @@ PhD-trained computational biologist with a dual strength: **deep expertise in gl
 
 My published research focuses on the **CMAH glyco-enzyme and sialic acid metabolism**, using AlphaFold, Rosetta, GROMACS, and high-throughput virtual screening. Alongside this, I develop reproducible pipelines spanning **scRNA-seq, metagenomics, population genomics, and ML-driven cheminformatics**.
 
-Open to roles in **computational glycobiology, structural bioinformatics, enzyme engineering, and general bioinformatics pipeline development**.
+Open to roles in **computational glycobiology, structural bioinformatics, enzyme engineering, bioinformatics pipeline development, and data analytics**.
 
 ---
 
@@ -26,6 +26,7 @@ Open to roles in **computational glycobiology, structural bioinformatics, enzyme
 | **Population Genomics & Variant Analysis** | GWAS, PLINK, VCFtools, SIFT, PolyPhen, ConSurf, DynaMut, InterProScan |
 | **Metagenomics & Viral Genomics** | SPAdes, Kraken, IQ-TREE, MAFFT, RAxML, BEAST, dN/dS analysis |
 | **Pipeline Engineering & Reproducibility** | Python, R, Bash, Snakemake, Conda, Git, HPC/Linux, AWS (S3, Athena) |
+| **Data Analytics & Visualisation** | SQL, Power BI, Matplotlib, Seaborn, Plotly, ggplot2, RMarkdown |
 
 ---
 
@@ -135,6 +136,57 @@ Preprocessing and triage of 5,000+ MPro inhibitor candidates from ChEMBL for dow
 
 ---
 
+### Diabetes Risk Prediction
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Mayorcool-lab/Diabetes-Prediction-SVM)
+
+Clinical data ML pipeline for patient risk stratification using SVM and Random Forest, achieving 76%+ accuracy with ROC validation.
+
+`SVM` `Random Forest` `Scikit-learn` `Python`
+
+---
+
+## 📊 Pillar 4 — Data Analytics & Visualisation
+
+*Skills applicable to bioinformatics analyst, clinical data, and healthcare analytics roles.*
+
+---
+
+### Healthcare SQL Analytics
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Mayorcool-lab/healthcare-analytics-sql)
+
+Clinical KPI analysis covering billing, CPT codes, and net collections using SQL Server and T-SQL. Designed to surface actionable utilisation metrics from healthcare data.
+
+`SQL Server` `T-SQL` `Clinical KPIs` `Healthcare Analytics`
+
+---
+
+### Loan Default Risk Dashboard
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Mayorcool-lab/Loan-Default-Risk-Analysis-Powerbi)
+
+Interactive Power BI dashboard for credit risk pattern assessment, combining SQL-based data preparation with visual analytics for data-driven lending decisions.
+
+`SQL` `Power BI` `Credit Risk` `Interactive Dashboard`
+
+---
+
+### E-commerce Funnel & Conversion Analysis
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Mayorcool-lab/Ecommerce-Conversion-Analysis)
+
+Customer conversion funnel analysis and segmentation analytics using Python and Power BI, delivering funnel optimisation insights.
+
+`Python` `Power BI` `Segmentation` `Funnel Analysis`
+
+---
+
+### Workforce Layoffs SQL Analysis
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Mayorcool-lab/SQL-Layoffs-Analysis)
+
+Workforce trend analysis using MySQL with visualisations to identify patterns in global layoff data.
+
+`MySQL` `SQL` `Data Visualisation`
+
+---
+
 ## 📚 Publications
 
 1. **Ogun OJ, Thaller G, Becker D.** Molecular Structural Analysis of the Porcine CMAH–Native Ligand Complex and High Throughput Virtual Screening to Identify Novel Inhibitors. *Pathogens* **2023**, 12(5), 684. [DOI](https://doi.org/10.3390/pathogens12050684)
@@ -160,8 +212,9 @@ Transcriptomics          Scanpy · Seurat · Harmony · DESeq2 · Monocle · Cel
 Metagenomics             SPAdes · Kraken · IQ-TREE · MAFFT · RAxML · BEAST · dN/dS
 Population Genomics      PLINK · VCFtools · SIFT · PolyPhen · ConSurf · DynaMut · InterProScan
 ML & AI                  Scikit-learn · XGBoost · Random Forest · QSAR · SHAP · TensorFlow (basic)
-Workflows                Python · R · Bash · SQL · Snakemake · Conda · Git · HPC/Linux · AWS
-Visualisation            PyMOL · ggplot2 · Matplotlib · Seaborn · Plotly
+Data Analytics           SQL · Power BI · Excel · T-SQL · MySQL
+Workflows                Python · R · Bash · Snakemake · Conda · Git · HPC/Linux · AWS
+Visualisation            PyMOL · ggplot2 · Matplotlib · Seaborn · Plotly · Power BI · RMarkdown
 ```
 
 ---
@@ -174,6 +227,7 @@ Visualisation            PyMOL · ggplot2 · Matplotlib · Seaborn · Plotly
 - 💊 Structure-based drug discovery & enzyme inhibitor design
 - 🤖 AI-enabled structural bioinformatics & protein design
 - 🏭 Industrial enzyme engineering (biotech / pharma)
+- 📊 Bioinformatics analyst & clinical/healthcare data analytics
 
 ---
 
