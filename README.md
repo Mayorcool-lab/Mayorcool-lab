@@ -1,6 +1,6 @@
 # Dr. Oluwamayowa Joshua Ogun
 
-**Computational Biologist · Structural Bioinformatics · Glyco-enzyme Modelling · Reproducible Pipelines**
+**Computational Biologist & Data Scientist · Functional Genomics · Structural Bioinformatics · ML & Analytics Pipelines**
 
 📍 Kiel, Germany · London, UK &nbsp;|&nbsp; ✉️ oluwamayowaogun@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/oluwamayowaogun) &nbsp;|&nbsp; 🔗 [Google Scholar](https://scholar.google.com/)
 
