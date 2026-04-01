@@ -2,7 +2,7 @@
 
 **Computational Biologist & Data Scientist · Functional Genomics · Structural Bioinformatics · ML & Analytics Pipelines**
 
-📍 Kiel, Germany · London, UK &nbsp;|&nbsp; ✉️ oluwamayowaogun@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/oluwamayowaogun) &nbsp;|&nbsp; 🔗 [Google Scholar](https://scholar.google.com/)
+📍 Kiel, Germany · London, UK &nbsp;|&nbsp; ✉️ oluwamayowaogun@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/oluwamayowaogun) &nbsp;|&nbsp; 🔗 [Google Scholar](https://scholar.google.com/citations?user=ZsF5IQ8AAAAJ&hl=en&authuser=2)
 
 ---
 
